@@ -1,3 +1,25 @@
+# 🚑 SOS Engasgo (Backend Laravel)
+
+> **Status do Projeto:** ✅ Estável / MVC Implementation  
+> Implementação da solução SOS Engasgo utilizando o framework PHP Laravel para agilidade e robustez web.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📋 Sobre o Projeto
+Este repositório faz parte do **Projeto Integrador da Fatec Indaiatuba**. Aqui, exploramos o padrão MVC (Model-View-Controller) do Laravel para criar uma interface administrativa e uma API funcional para o sistema de auxílio em primeiros socorros.
+
+## 🛠️ Tecnologias e Estrutura
+* **Linguagem:** PHP 8+.
+* **Framework:** Laravel.
+* **Template Engine:** Blade.
+* **ORM:** Eloquent.
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
